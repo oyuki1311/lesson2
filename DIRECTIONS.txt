@@ -1,0 +1,5 @@
+In this lesson you'll be learning how to create links, center text, create bullet point and numbered lists, and align the main header title next to the image (so it appears on the same line).
+
+See the sketched mockup pdf. You'll be creating the 3 html files. You'll be using the same banana image from the last project, but will be creating the rest of the files/folder structure on your own. Feel free to use the last lesson as a reference.
+
+One great resource for both HTML & CSS is http://www.w3schools.com/. You're second best resource is https://www.google.com/. And your third resource is us.

@@ -1,0 +1,64 @@
+body {
+  background: url(BananaHoardEdit.jpg) no-repeat center center fixed;
+  background-size: cover;
+  }
+
+h1 {
+  position: relative;
+  text-align: center;
+  font-size: 140px;
+  font-family: cursive;
+  text-shadow: 8px 8px #FF9900;
+  color: #995500;
+}
+
+ul {
+  list-style: bullet;
+  padding-left: 180px;
+  padding-right: 180px;
+  }
+
+li {
+  text-align: left;
+  font-size: 70px;
+  font-weight: bold;
+  font-family: cursive;
+  text-decoration: underline;
+  text-shadow: 5px 5px #995500;
+  color: #CCCC00;
+}
+
+p {
+  font-size: 50px;
+  font-family: cursive;
+  font-weight: bold;
+  text-shadow: 3px 3px #996622;
+  color: #FFFFBB;
+}
+
+a:link {
+    font-size: 60px;
+    text-decoration: none;
+    text-shadow: 3px 3px #992200;
+    color: #668800;
+    display: inline;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #007700;
+    display: inline;
+}
+
+a:hover {
+    text-decoration: underline;
+    text-shadow: 3px 3px #996600;
+    color: #66BB00;
+    display: inline;
+}
+
+a:active {
+    text-decoration: underline;
+    color: #0077FF;
+    display: inline;
+}
